@@ -6,6 +6,7 @@ function App() {
     <div>
       <h1>Welcome to SMC</h1>
       <Button />
+      <Button />
     </div>
   );
 }
